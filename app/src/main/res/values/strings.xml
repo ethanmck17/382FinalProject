@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DENOTE</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_notecards">NOTECARDS</string>
+    <string name="action_home">Home</string>
+    <string name="add_note_title">ADD NOTE</string>
+    <string name="photo_detail_label">PHOTO NOTE</string>
+    <string name="note_detail_label">NOTE DETAIL</string>
+
+    <string-array name="notecard_titles">
+        <item>Random Note 1</item>
+        <item>Random Note 2</item>
+        <item>Random Note 3</item>
+        <item>Random Note 4</item>
+    </string-array>
+
+    <string-array name="notecard_content">
+        <item>Here is the notecard content!</item>
+        <item>Here is the notecard content!</item>
+        <item>Here is the notecard content!</item>
+        <item>Here is the notecard content!</item>
+    </string-array>
+
+    <array name="notecard_imgs">
+        <item>@drawable/final_bg</item>
+        <item>@drawable/my_church</item>
+        <item>@drawable/my_church</item>
+        <item>@drawable/my_church</item>
+    </array>
+</resources>
+
